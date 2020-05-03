@@ -1,0 +1,22 @@
+{
+  "name": "lprouteoptimization",
+  "version": "1.0.0",
+  "description": "Route Optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-applications/LPRouteOptimization.git"
+  },
+  "keywords": [
+    "LP"
+  ],
+  "author": "Vaibhav Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-applications/LPRouteOptimization/issues"
+  },
+  "homepage": "https://github.com/node-applications/LPRouteOptimization#readme"
+}
